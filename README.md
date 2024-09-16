@@ -11,7 +11,7 @@
 <h2><p>Aqui você encontra meus projetos e estudos em tecnologia!<h2></p>
 </div>
 
-Apaixonada por tecnologia, estou trilhando um caminho de aprendizado em Java, Spring, HTML, CSS, SCSS, JavaScript, e explorando as possibilidades com React e Vue. Também estou mergulhando no mundo dos dados com Power BI e Data Analytics!
+Apaixonadaa por tecnologia, estou trilhando um caminho de aprendizado em Java, Spring, HTML, CSS, SCSS, JavaScript, e explorando as possibilidades com React e Vue. Também estou mergulhando no mundo dos dados com Power BI e Data Analytics!
 
 <div align="center">
   <h2><strong>🚀 Minhas Habilidades & Estudos:</strong></h2>
