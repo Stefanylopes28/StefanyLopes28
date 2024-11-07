@@ -11,7 +11,7 @@
 <h2><p>Aqui você encontra meus projetos e estudos em tecnologia!<h2></p>
 </div>
 
-Apaixonadaa por tecnologia, estou trilhando um caminho de aprendizado em Java, Spring, HTML, CSS, SCSS, JavaScript, e explorando as possibilidades com React e Vue. Também estou mergulhando no mundo dos dados com Power BI e Data Analytics!
+Sou Stéfany Lopes, uma profissional em transição de carreira para a área de tecnologia. Depois de atuar por um tempo em vendas, percebi que minha verdadeira paixão está na criação de soluções tecnológicas. Com uma base sólida em programação e uma busca constante por aprendizado, estou determinada a aplicar minhas habilidades de comunicação, resolução de problemas e trabalho em equipe no mundo da tecnologia. Estou em busca de novas oportunidades onde posso contribuir com minha dedicação, criatividade e capacidade de adaptação, sempre com foco no desenvolvimento contínuo e na entrega de resultados.
 
 <div align="center">
   <h2><strong>🚀 Minhas Habilidades & Estudos:</strong></h2>
