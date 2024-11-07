@@ -16,15 +16,16 @@ Apaixonadaa por tecnologia, estou trilhando um caminho de aprendizado em Java, S
 <div align="center">
   <h2><strong>🚀 Minhas Habilidades & Estudos:</strong></h2>
 
-  <p>💻 <em><strong>Backend: Java, Node.js, Express</strong></em></p>
+  <p>💻 <em><strong>Backend: Java, Node.js & Express</strong></em></p>
 
-  <p>🎨 <em><strong>Front-end: HTML, CSS, SCSS, JavaScript</strong></em></p>
+  <p>🎨 <em><strong>Front-end: HTML, CSS, SCSS & JavaScript</strong></em></p>
 
   <p>🔧 <em><strong>Frameworks: Em progresso com React, Vue & Spring </strong></em></p>
 </div>
 
-<p>🗄️ <em><strong>Banco de Dados: Em progresso com postgreSQL E Docker </strong></em></p>
+<p>🗄️ <em><strong>Banco de Dados: Em progresso com postgreSQL & Docker </strong></em></p>
 </div>
+
 
 <div align="center">
   
