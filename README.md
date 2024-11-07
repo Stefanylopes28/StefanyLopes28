@@ -71,9 +71,7 @@ Adoro aprender e compartilhar conhecimento!
   <img src="https://github-readme-stats.vercel.app/api?username=stefanylopes28&show_icons=true&theme=radical" alt="Stéfany's GitHub Stats" width="290" style="margin: 10px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanylopes28&layout=compact&theme=radical" alt="Top Languages" width="260" style="margin: 10px;"/>
 
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=stefanylopes28&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="306" style="margin: 10px;"/>
-  </a>
+  
 </div>
 
 <div align="center">
